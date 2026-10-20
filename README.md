@@ -6,7 +6,7 @@ SQG is a SPARQL query generator. It is implemented in Java with the use of the O
 #### Download SQG
 You can get a copy of it stored in Github repository with the following command:
 ```console
-$ git clone https://github.com/YankeeChen/sparqlquerygenerator.git
+$ git clone https://github.com/yanjichen01/sparqlquerygenerator.git
 ```
 
 #### Usage
